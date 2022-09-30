@@ -1,6 +1,10 @@
 
 
 # TelsaJobAnalyze
+* step1：get the telsa job from telsa HR website
+* step2：export the job information to the excel files
+* step3 : analyze the telsa position trends (not done )
+
 tree -f 
 
 D:.
